@@ -1,0 +1,14 @@
+{
+  "pacientes": [
+    {
+      "nome": "Vineh",
+      "telefone": 3551178,
+      "rg": 1010101010,
+      "cpf": 2020202022,
+      "email": "vineh@gmail.com",
+      "convenio": "sim",
+      "data_nasc": "12/12/1990",
+      "CEP": 88080300
+    }
+  ]
+}

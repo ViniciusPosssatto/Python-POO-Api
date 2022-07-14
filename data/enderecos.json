@@ -1,0 +1,22 @@
+[
+  {
+    "cep": "88080-400",
+    "logradouro": "Rua Paula Ramos",
+    "complemento": "at\u00e9 Rua 626",
+    "bairro": "Capoeiras",
+    "localidade": "Florian\u00f3polis",
+    "uf": "SC",
+    "ddd": "48",
+    "numero": 1212
+  },
+  {
+    "cep": "88080-300",
+    "logradouro": "Rua Professor Bayer Filho",
+    "complemento": "",
+    "bairro": "Coqueiros",
+    "localidade": "Florian\u00f3polis",
+    "uf": "SC",
+    "ddd": "48",
+    "numero": 3434
+  }
+]

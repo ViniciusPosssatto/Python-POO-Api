@@ -1,0 +1,12 @@
+{
+  "medicos": [
+    {
+      "nome": "Oloco meu",
+      "telefone": 35561123,
+      "email": "olokinho@gmail.com",
+      "telefone2": 333444222,
+      "CRM": 123123123,
+      "CEP": 88080400
+    }
+  ]
+}
